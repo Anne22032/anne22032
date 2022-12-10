@@ -1,4 +1,4 @@
-Region	Vietnam	Indonesia	Thailand	Philipines	Cambodia	Japan	Korea	Others	China	HK_Mac
+Region	Vietnam	Indonesia	Thailand	Philippines	Cambodia	Japan	Korea	Others	China	HK_Mac
 NewTaipeiCity	"16,096"	"3,503"	"1,598"	"1,400"	434	888	"1,275"	"3,472"	"65,014"	"5,041"
 TaipeiCity	"5,012"	"1,063"	476	583	183	"1,501"	358	"4,098"	"40,633"	"3,509"
 TaoyuanCity	"9,231"	"4,558"	"2,245"	"1,497"	299	340	351	"1,344"	"34,433"	"1,278"
